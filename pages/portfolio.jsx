@@ -28,7 +28,7 @@ const Portfolio = () => {
                         ))
 
                 }
-
+            
 
             </div >
             <Footer />

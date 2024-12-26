@@ -11,8 +11,8 @@ const CodingProfile = () => {
     },
     codechef: {
       url: "https://www.codechef.com/users/vinay_ramola",
-      maxRating: 1701,
-      title: "3★ Chef",
+      maxRating: 1717,
+      title: "3★",
     },
     codeforces: {
       url: "https://codeforces.com/profile/vinayRamola123",
